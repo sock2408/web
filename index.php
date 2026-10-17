@@ -16,5 +16,9 @@
         <li><a href="lab1/array.php">Задание 4</a></li>
         <li><a href="lab1/constant.php">Задание 5</a></li>
     </ol>
+    <h2>Лаба № 2</h2>
+    <ol>
+        <li><a href="lab2/for.php">Задание 1 for</a></li>
+    </ol>
 </body>
 </html>

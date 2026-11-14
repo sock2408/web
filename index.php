@@ -168,6 +168,13 @@
 
             </div>
         </div>
+        <div class="lab-section">
+            <h2>Лаба № 3</h2>
+            <div class="links">
+                <a href="lab3/constants.php" class="btn"><span class="btn-number">1</span>constants</a>
+                <a href="lab3/date.php" class="btn"><span class="btn-number">2</span>date</a>
+                <a href="lab3/functions.php" class="btn"><span class="btn-number">3</span>functions</a>
+                <a href="lab3/string.php" class="btn"><span class="btn-number">4</span>string</a>                
     </div>
 </body>
 </html>

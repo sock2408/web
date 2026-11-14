@@ -159,12 +159,12 @@
             <h2>Лаба № 2</h2>
             <div class="links">
                 <a href="lab2/for.php" class="btn"><span class="btn-number">1</span>Цикл for</a>
-                <a href="lab2/while.php" class="btn"><span class="btn-number">1</span>Цикл while</a>
-                <a href="lab2/menu.php" class="btn"><span class="btn-number">1</span>menu</a>
-                <a href="lab2/table.php" class="btn"><span class="btn-number">1</span>table</a>
-                <a href="lab2/func.php" class="btn"><span class="btn-number">1</span>func</a>
-                <a href="lab2/getmenu.php" class="btn"><span class="btn-number">1</span>getmenu</a>
-                <a href="lab2/gettable.php" class="btn"><span class="btn-number">1</span>gettable</a>
+                <a href="lab2/while.php" class="btn"><span class="btn-number">2</span>Цикл while</a>
+                <a href="lab2/menu.php" class="btn"><span class="btn-number">3</span>menu</a>
+                <a href="lab2/table.php" class="btn"><span class="btn-number">4</span>table</a>
+                <a href="lab2/func.php" class="btn"><span class="btn-number">5</span>func</a>
+                <a href="lab2/getmenu.php" class="btn"><span class="btn-number">6</span>getmenu</a>
+                <a href="lab2/gettable.php" class="btn"><span class="btn-number">7</span>gettable</a>
 
             </div>
         </div>

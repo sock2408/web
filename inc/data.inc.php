@@ -15,7 +15,7 @@ $labs = [
         ['title' => 'Switch', 'href' => 'lab1/switch.php'],
         ['title' => 'Match', 'href' => 'lab1/match.php'],
         ['title' => 'Массивы', 'href' => 'lab1/array.php'],
-        ['title' => 'Константы', 'href' => 'lab1/constant.php'],
+        ['title' => 'Константы', 'href' => 'lab1/constant.php']
     ],
     'Лаба № 2' => [
         ['title' => 'Цикл for', 'href' => 'lab2/for.php'],
@@ -24,12 +24,12 @@ $labs = [
         ['title' => 'Таблица умножения', 'href' => 'lab2/table.php'],
         ['title' => 'menu', 'href' => 'lab2/menu.php'],
         ['title' => 'gettable', 'href' => 'lab2/gettable.php'],
-        ['title' => 'getmenu', 'href' => 'lab2/getmenu.php'],
-    ]
+        ['title' => 'getmenu', 'href' => 'lab2/getmenu.php']
+    ],
     'Лаба № 3' => [
         ['title' => 'const', 'href' => 'lab3/constants.php'],
         ['title' => 'date', 'href' => 'lab3/date.php'],
         ['title' => 'functions', 'href' => 'lab3/functions.php'],
-        ['title' => 'string', 'href' => 'lab3/string.php'],
+        ['title' => 'string', 'href' => 'lab3/string.php']
     ]
 ];

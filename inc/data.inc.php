@@ -20,11 +20,16 @@ $labs = [
     'Лаба № 2' => [
         ['title' => 'Цикл for', 'href' => 'lab2/for.php'],
         ['title' => 'Цикл while', 'href' => 'lab2/while.php'],
+        ['title' => 'func', 'href' => 'lab2/func.php'],
         ['title' => 'Таблица умножения', 'href' => 'lab2/table.php'],
+        ['title' => 'menu', 'href' => 'lab2/menu.php'],
+        ['title' => 'gettable', 'href' => 'lab2/gettable.php'],
+        ['title' => 'getmenu', 'href' => 'lab2/getmenu.php'],
     ]
     'Лаба № 3' => [
-        ['title' => 'Цикл for', 'href' => 'lab2/for.php'],
-        ['title' => 'Цикл while', 'href' => 'lab2/while.php'],
-        ['title' => 'Таблица умножения', 'href' => 'lab2/table.php'],
+        ['title' => 'const', 'href' => 'lab3/constants.php'],
+        ['title' => 'date', 'href' => 'lab3/date.php'],
+        ['title' => 'functions', 'href' => 'lab3/functions.php'],
+        ['title' => 'string', 'href' => 'lab3/string.php'],
     ]
 ];

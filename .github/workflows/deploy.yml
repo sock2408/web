@@ -26,23 +26,23 @@ jobs:
           persist-credentials: false
 
       - name: Deploy website
-      uses: SamKirkland/FTP-Deploy-Action@v4.4.0
-      with:
-        server: ${{ secrets.FTP_USERNAME }}.xsph.ru
-        username: ${{ secrets.FTP_USERNAME }}
-        password: ${{ secrets.FTP_PASSWORD }}
+        uses: SamKirkland/FTP-Deploy-Action@v4.4.0
+        with:
+          server: ${{ secrets.FTP_USERNAME }}.xsph.ru
+          username: ${{ secrets.FTP_USERNAME }}
+          password: ${{ secrets.FTP_PASSWORD }}
 
-        protocol: ftp
-        port: 21
+          protocol: ftp
+          port: 21
 
-        local-dir: ./
+          local-dir: ./
 
-        server-dir: ./domains/${{ secrets.FTP_USERNAME }}.xsph.ru/public_html/
+          server-dir: ./domains/${{ secrets.FTP_USERNAME }}.xsph.ru/public_html/
 
-		exclude: |
-          **/.git*
-		  **/.git*/**
-		  **/node_modules/**
-		  **/.env
-		  **/.env.*
-		  **/README*
+          exclude: |
+            **/.git*
+            **/.git*/**
+            **/node_modules/**
+            **/.env
+            **/.env.*
+            **/README*
